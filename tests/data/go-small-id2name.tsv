@@ -1,0 +1,493 @@
+GO:0016070	RNA metabolic process
+GO:0034613	cellular protein localization
+GO:0005057	signal transducer activity, downstream of receptor
+GO:0044424	intracellular part
+GO:0008565	protein transporter activity
+GO:0044422	organelle part
+GO:0006261	DNA-dependent DNA replication
+GO:0009891	positive regulation of biosynthetic process
+GO:0009892	negative regulation of metabolic process
+GO:0065009	regulation of molecular function
+GO:0044429	mitochondrial part
+GO:0009893	positive regulation of metabolic process
+GO:0065007	biological regulation
+GO:0044427	chromosomal part
+GO:0019219	regulation of nucleobase-containing compound metabolic process
+GO:0044428	nuclear part
+GO:0009897	external side of plasma membrane
+GO:0090329	regulation of DNA-dependent DNA replication
+GO:0044425	membrane part
+GO:0030126	COPI vesicle coat
+GO:0044432	endoplasmic reticulum part
+GO:0044796	DNA polymerase processivity factor complex
+GO:0044433	cytoplasmic vesicle part
+GO:0044430	cytoskeletal part
+GO:0034728	nucleosome organization
+GO:0006275	regulation of DNA replication
+GO:0044431	Golgi apparatus part
+GO:0043227	membrane-bounded organelle
+GO:0043226	organelle
+GO:0043229	intracellular organelle
+GO:0043228	non-membrane-bounded organelle
+GO:0000979	RNA polymerase II core promoter sequence-specific DNA binding
+GO:0022626	cytosolic ribosome
+GO:0000975	regulatory region DNA binding
+GO:0022627	cytosolic small ribosomal subunit
+GO:0000976	transcription regulatory region sequence-specific DNA binding
+GO:0019222	regulation of metabolic process
+GO:0030120	vesicle coat
+GO:0018130	heterocycle biosynthetic process
+GO:0000977	RNA polymerase II regulatory region sequence-specific DNA binding
+GO:0000978	RNA polymerase II core promoter proximal region sequence-specific DNA binding
+GO:0031328	positive regulation of cellular biosynthetic process
+GO:0000940	condensed chromosome outer kinetochore
+GO:0031326	regulation of cellular biosynthetic process
+GO:0030117	membrane coat
+GO:0031327	negative regulation of cellular biosynthetic process
+GO:0031324	negative regulation of cellular metabolic process
+GO:0031325	positive regulation of cellular metabolic process
+GO:0006366	transcription from RNA polymerase II promoter
+GO:0044445	cytosolic part
+GO:0043234	protein complex
+GO:0043233	organelle lumen
+GO:0044446	intracellular organelle part
+GO:0044444	cytoplasmic part
+GO:0045893	positive regulation of transcription, DNA-templated
+GO:0010628	positive regulation of gene expression
+GO:0010629	negative regulation of gene expression
+GO:0043232	intracellular non-membrane-bounded organelle
+GO:0043231	intracellular membrane-bounded organelle
+GO:0045892	negative regulation of transcription, DNA-templated
+GO:1905268	negative regulation of chromatin organization
+GO:0090304	nucleic acid metabolic process
+GO:0019438	aromatic compound biosynthetic process
+GO:0071705	nitrogen compound transport
+GO:0071704	organic substance metabolic process
+GO:0071824	protein-DNA complex subunit organization
+GO:0071702	organic substance transport
+GO:0071944	cell periphery
+GO:0044448	cell cortex part
+GO:0015197	peptide transporter activity
+GO:0031323	regulation of cellular metabolic process
+GO:0030234	enzyme regulator activity
+GO:0032774	RNA biosynthetic process
+GO:0000942	condensed nuclear chromosome outer kinetochore
+GO:0016282	eukaryotic 43S preinitiation complex
+GO:0016043	cellular component organization
+GO:0006139	nucleobase-containing compound metabolic process
+GO:0055106	ubiquitin-protein transferase regulator activity
+GO:0005049	nuclear export signal receptor activity
+GO:0006259	DNA metabolic process
+GO:0042398	cellular modified amino acid biosynthetic process
+GO:0044699	single-organism process
+GO:0043486	histone exchange
+GO:0044454	nuclear chromosome part
+GO:0044212	transcription regulatory region DNA binding
+GO:0044452	nucleolar part
+GO:0010639	negative regulation of organelle organization
+GO:0009890	negative regulation of biosynthetic process
+GO:0044451	nucleoplasm part
+GO:0090316	positive regulation of intracellular protein transport
+GO:0006260	DNA replication
+GO:0070727	cellular macromolecule localization
+GO:1905039	carboxylic acid transmembrane transport
+GO:0044459	plasma membrane part
+GO:0009889	regulation of biosynthetic process
+GO:0055105	ubiquitin-protein transferase inhibitor activity
+GO:0032880	regulation of protein localization
+GO:0031429	box H/ACA snoRNP complex
+GO:0032879	regulation of localization
+GO:0006468	protein phosphorylation
+GO:0006464	cellular protein modification process
+GO:0044464	cell part
+GO:0010604	positive regulation of macromolecule metabolic process
+GO:0010605	negative regulation of macromolecule metabolic process
+GO:0019538	protein metabolic process
+GO:0019899	enzyme binding
+GO:0055114	oxidation-reduction process
+GO:0032993	protein-DNA complex
+GO:1990837	sequence-specific double-stranded DNA binding
+GO:0032991	macromolecular complex
+GO:0071840	cellular component organization or biogenesis
+GO:0070993	translation preinitiation complex
+GO:0016020	membrane
+GO:0000923	equatorial microtubule organizing center
+GO:0006357	regulation of transcription from RNA polymerase II promoter
+GO:0006355	regulation of transcription, DNA-templated
+GO:0044237	cellular metabolic process
+GO:0006351	transcription, DNA-templated
+GO:0006470	protein dephosphorylation
+GO:0042175	nuclear outer membrane-endoplasmic reticulum membrane network
+GO:0071957	old mitotic spindle pole body
+GO:0044238	primary metabolic process
+GO:0009986	cell surface
+GO:0031410	cytoplasmic vesicle
+GO:0009987	cellular process
+GO:0000936	primary cell septum
+GO:0019787	ubiquitin-like protein transferase activity
+GO:0009628	response to abiotic stimulus
+GO:0006325	chromatin organization
+GO:0015036	disulfide oxidoreductase activity
+GO:0044249	cellular biosynthetic process
+GO:0031400	negative regulation of protein modification process
+GO:0015035	protein disulfide oxidoreductase activity
+GO:0015031	protein transport
+GO:0030428	cell septum
+GO:0030427	site of polarized growth
+GO:0006338	chromatin remodeling
+GO:0005488	binding
+GO:0006575	cellular modified amino acid metabolic process
+GO:0005487	nucleocytoplasmic transporter activity
+GO:0043043	peptide biosynthetic process
+GO:0043044	ATP-dependent chromatin remodeling
+GO:0070647	protein modification by small protein conjugation or removal
+GO:0030662	coated vesicle membrane
+GO:0070887	cellular response to chemical stimulus
+GO:0030663	COPI-coated vesicle membrane
+GO:0030660	Golgi-associated vesicle membrane
+GO:0016491	oxidoreductase activity
+GO:0019184	nonribosomal peptide biosynthetic process
+GO:0098687	chromosomal region
+GO:0097356	perinucleolar compartment
+GO:0051234	establishment of localization
+GO:0015935	small ribosomal subunit
+GO:0043618	regulation of transcription from RNA polymerase II promoter in response to stress
+GO:0042886	amide transport
+GO:0044700	single organism signaling
+GO:0032156	septin cytoskeleton
+GO:0032155	cell division site part
+GO:0097478	leaflet of membrane bilayer
+GO:0032153	cell division site
+GO:0051248	negative regulation of protein metabolic process
+GO:0001666	response to hypoxia
+GO:0051246	regulation of protein metabolic process
+GO:0051128	regulation of cellular component organization
+GO:0051129	negative regulation of cellular component organization
+GO:0044710	single-organism metabolic process
+GO:0043620	regulation of DNA-templated transcription in response to stress
+GO:0060187	cell pole
+GO:0090734	site of DNA damage
+GO:0043626	PCNA complex
+GO:0043505	CENP-A containing nucleosome
+GO:1902275	regulation of chromatin organization
+GO:0043622	cortical microtubule organization
+GO:0032269	negative regulation of cellular protein metabolic process
+GO:0032268	regulation of cellular protein metabolic process
+GO:0032388	positive regulation of intracellular transport
+GO:0032386	regulation of intracellular transport
+GO:0000780	condensed nuclear chromosome, centromeric region
+GO:0000786	nucleosome
+GO:0000785	chromatin
+GO:0010468	regulation of gene expression
+GO:0046907	intracellular transport
+GO:0008152	metabolic process
+GO:0008150	biological_process
+GO:0045934	negative regulation of nucleobase-containing compound metabolic process
+GO:0010467	gene expression
+GO:0045935	positive regulation of nucleobase-containing compound metabolic process
+GO:0051254	positive regulation of RNA metabolic process
+GO:0051252	regulation of RNA metabolic process
+GO:1990811	Msd1-Wdr8-Pkl1 complex
+GO:0051253	negative regulation of RNA metabolic process
+GO:0003700	transcription factor activity, sequence-specific DNA binding
+GO:0000794	condensed nuclear chromosome
+GO:0098796	membrane protein complex
+GO:0000793	condensed chromosome
+GO:0098552	side of membrane
+GO:0044732	mitotic spindle pole body
+GO:0000790	nuclear chromatin
+GO:0008156	negative regulation of DNA replication
+GO:0045944	positive regulation of transcription from RNA polymerase II promoter
+GO:0031399	regulation of protein modification process
+GO:0031397	negative regulation of protein ubiquitination
+GO:1990948	ubiquitin ligase inhibitor activity
+GO:0031396	regulation of protein ubiquitination
+GO:0003824	catalytic activity
+GO:0012505	endomembrane system
+GO:0012506	vesicle membrane
+GO:0043412	macromolecule modification
+GO:0007154	cell communication
+GO:0035861	site of double-strand break
+GO:0034654	nucleobase-containing compound biosynthetic process
+GO:0051276	chromosome organization
+GO:0097038	perinuclear endoplasmic reticulum
+GO:0097159	organic cyclic compound binding
+GO:0051049	regulation of transport
+GO:0051168	nuclear export
+GO:0051169	nuclear transport
+GO:0000776	kinetochore
+GO:0000775	chromosome, centromeric region
+GO:0007165	signal transduction
+GO:0035970	peptidyl-threonine dephosphorylation
+GO:0034641	cellular nitrogen compound metabolic process
+GO:0035974	meiotic spindle pole body
+GO:0034645	cellular macromolecule biosynthetic process
+GO:0000779	condensed chromosome, centromeric region
+GO:0030286	dynein complex
+GO:0000778	condensed nuclear chromosome kinetochore
+GO:0033554	cellular response to stress
+GO:0000777	condensed chromosome kinetochore
+GO:0051285	cell cortex of cell tip
+GO:0051286	cell tip
+GO:0000982	transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding
+GO:0000983	transcription factor activity, RNA polymerase II core promoter sequence-specific
+GO:0098588	bounding membrane of organelle
+GO:0051179	localization
+GO:0022892	substrate-specific transporter activity
+GO:0000981	RNA polymerase II transcription factor activity, sequence-specific DNA binding
+GO:0007017	microtubule-based process
+GO:0046822	regulation of nucleocytoplasmic transport
+GO:0008104	protein localization
+GO:0042221	response to chemical
+GO:0044765	single-organism transport
+GO:0007015	actin filament organization
+GO:0046942	carboxylic acid transport
+GO:0044763	single-organism cellular process
+GO:0007010	cytoskeleton organization
+GO:0070938	contractile ring
+GO:0046827	positive regulation of protein export from nucleus
+GO:0046825	regulation of protein export from nucleus
+GO:0046824	positive regulation of nucleocytoplasmic transport
+GO:0051052	regulation of DNA metabolic process
+GO:0051173	positive regulation of nitrogen compound metabolic process
+GO:0051053	negative regulation of DNA metabolic process
+GO:0030036	actin cytoskeleton organization
+GO:0031122	cytoplasmic microtubule organization
+GO:0051050	positive regulation of transport
+GO:0051171	regulation of nitrogen compound metabolic process
+GO:0051172	negative regulation of nitrogen compound metabolic process
+GO:0000987	core promoter proximal region sequence-specific DNA binding
+GO:0030029	actin filament-based process
+GO:0032446	protein modification by small protein conjugation
+GO:0010558	negative regulation of macromolecule biosynthetic process
+GO:0010556	regulation of macromolecule biosynthetic process
+GO:0034506	chromosome, centromeric core domain
+GO:0010557	positive regulation of macromolecule biosynthetic process
+GO:0043565	sequence-specific DNA binding
+GO:0035838	growing cell tip
+GO:0035839	non-growing cell tip
+GO:1990904	ribonucleoprotein complex
+GO:0099568	cytoplasmic region
+GO:0005737	cytoplasm
+GO:0003677	DNA binding
+GO:0000165	MAPK cascade
+GO:0005856	cytoskeleton
+GO:0005732	small nucleolar ribonucleoprotein complex
+GO:0050789	regulation of biological process
+GO:1903508	positive regulation of nucleic acid-templated transcription
+GO:0003674	molecular_function
+GO:0001012	RNA polymerase II regulatory region DNA binding
+GO:1903507	negative regulation of nucleic acid-templated transcription
+GO:0005730	nucleolus
+GO:0003676	nucleic acid binding
+GO:1903506	regulation of nucleic acid-templated transcription
+GO:0006820	anion transport
+GO:2000104	negative regulation of DNA-dependent DNA replication
+GO:1901566	organonitrogen compound biosynthetic process
+GO:1901564	organonitrogen compound metabolic process
+GO:1904951	positive regulation of establishment of protein localization
+GO:0016740	transferase activity
+GO:0005739	mitochondrion
+GO:0070262	peptidyl-serine dephosphorylation
+GO:0048475	coated membrane
+GO:0005868	cytoplasmic dynein complex
+GO:0005869	dynactin complex
+GO:0050794	regulation of cellular process
+GO:0051641	cellular localization
+GO:0006835	dicarboxylic acid transport
+GO:0048471	perinuclear region of cytoplasm
+GO:0005622	intracellular
+GO:0005623	cell
+GO:0051403	stress-activated MAPK cascade
+GO:0005740	mitochondrial envelope
+GO:0006950	response to stress
+GO:0051649	establishment of localization in cell
+GO:1901576	organic substance biosynthetic process
+GO:0003682	chromatin binding
+GO:0048478	replication fork protection
+GO:0060341	regulation of cellular localization
+GO:2000112	regulation of cellular macromolecule biosynthetic process
+GO:2000113	negative regulation of cellular macromolecule biosynthetic process
+GO:0098739	import across plasma membrane
+GO:0050790	regulation of catalytic activity
+GO:1902679	negative regulation of RNA biosynthetic process
+GO:0036211	protein modification process
+GO:0060255	regulation of macromolecule metabolic process
+GO:0016604	nuclear body
+GO:0034399	nuclear periphery
+GO:1902680	positive regulation of RNA biosynthetic process
+GO:0080090	regulation of primary metabolic process
+GO:0015630	microtubule cytoskeleton
+GO:0006807	nitrogen compound metabolic process
+GO:0023014	signal transduction by protein phosphorylation
+GO:0006810	transport
+GO:0006811	ion transport
+GO:0005840	ribosome
+GO:0004871	signal transducer activity
+GO:1901362	organic cyclic compound biosynthetic process
+GO:1901360	organic cyclic compound metabolic process
+GO:0098714	malate import across plasma membrane
+GO:0072588	box H/ACA RNP complex
+GO:0000122	negative regulation of transcription from RNA polymerase II promoter
+GO:0051438	regulation of ubiquitin-protein transferase activity
+GO:0004842	ubiquitin-protein transferase activity
+GO:1902578	single-organism localization
+GO:0009059	macromolecule biosynthetic process
+GO:0009058	biosynthetic process
+GO:1901363	heterocyclic compound binding
+GO:0043933	macromolecular complex subunit organization
+GO:0099738	cell cortex region
+GO:0097435	supramolecular fiber organization
+GO:0005938	cell cortex
+GO:0033044	regulation of chromosome organization
+GO:0005815	microtubule organizing center
+GO:0033043	regulation of organelle organization
+GO:0005816	spindle pole body
+GO:0006913	nucleocytoplasmic transport
+GO:0098772	molecular function regulator
+GO:0004857	enzyme inhibitor activity
+GO:0051444	negative regulation of ubiquitin-protein transferase activity
+GO:0001227	transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding
+GO:0005940	septin ring
+GO:1900049	regulation of histone exchange
+GO:1902589	single-organism organelle organization
+GO:0015629	actin cytoskeleton
+GO:1903320	regulation of protein modification by small protein conjugation or removal
+GO:1900050	negative regulation of histone exchange
+GO:0015740	C4-dicarboxylate transport
+GO:0031090	organelle membrane
+GO:0015743	malate transport
+GO:0033157	regulation of intracellular protein transport
+GO:0033036	macromolecule localization
+GO:0001228	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding
+GO:0098657	import into cell
+GO:0031098	stress-activated protein kinase signaling cascade
+GO:0005829	cytosol
+GO:0005826	actomyosin contractile ring
+GO:0098656	anion transmembrane transport
+GO:0031097	medial cortex
+GO:0004702	signal transducer, downstream of receptor, with serine/threonine kinase activity
+GO:0000226	microtubule cytoskeleton organization
+GO:0051338	regulation of transferase activity
+GO:1903321	negative regulation of protein modification by small protein conjugation or removal
+GO:0015711	organic anion transport
+GO:0015833	peptide transport
+GO:0035327	transcriptionally active chromatin
+GO:0097659	nucleic acid-templated transcription
+GO:0000228	nuclear chromosome
+GO:0004707	MAP kinase activity
+GO:0051223	regulation of protein transport
+GO:0051348	negative regulation of transferase activity
+GO:1904667	negative regulation of ubiquitin protein ligase activity
+GO:1904666	regulation of ubiquitin protein ligase activity
+GO:0015849	organic acid transport
+GO:0034220	ion transmembrane transport
+GO:1902494	catalytic complex
+GO:0032161	cleavage apparatus septin structure
+GO:0043604	amide biosynthetic process
+GO:0044815	DNA packaging complex
+GO:0035556	intracellular signal transduction
+GO:0043603	cellular amide metabolic process
+GO:0001207	histone displacement
+GO:0051222	positive regulation of protein transport
+GO:0030659	cytoplasmic vesicle membrane
+GO:0043170	macromolecule metabolic process
+GO:0044260	cellular macromolecule metabolic process
+GO:0005215	transporter activity
+GO:0005575	cellular_component
+GO:0044267	cellular protein metabolic process
+GO:0005694	chromosome
+GO:0031982	vesicle
+GO:0031981	nuclear lumen
+GO:0044272	sulfur compound biosynthetic process
+GO:0044391	ribosomal subunit
+GO:0044271	cellular nitrogen compound biosynthetic process
+GO:0031975	envelope
+GO:0031974	membrane-enclosed lumen
+GO:0006796	phosphate-containing compound metabolic process
+GO:0006793	phosphorus metabolic process
+GO:0045005	DNA-dependent DNA replication maintenance of fidelity
+GO:0030529	intracellular ribonucleoprotein complex
+GO:0006790	sulfur compound metabolic process
+GO:0048519	negative regulation of biological process
+GO:0048518	positive regulation of biological process
+GO:0031970	organelle envelope lumen
+GO:0031967	organelle envelope
+GO:0001077	transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding
+GO:0030875	rDNA protrusion
+GO:0001078	transcriptional repressor activity, RNA polymerase II core promoter proximal region sequence-specific binding
+GO:0030874	nucleolar chromatin
+GO:0006886	intracellular protein transport
+GO:0005794	Golgi apparatus
+GO:0048523	negative regulation of cellular process
+GO:0048522	positive regulation of cellular process
+GO:0001071	nucleic acid binding transcription factor activity
+GO:0016567	protein ubiquitination
+GO:0036293	response to decreased oxygen levels
+GO:0036294	cellular response to decreased oxygen levels
+GO:0071423	malate transmembrane transport
+GO:0070693	P-TEFb-cap methyltransferase complex
+GO:0030864	cortical actin cytoskeleton
+GO:0030865	cortical cytoskeleton organization
+GO:0030863	cortical cytoskeleton
+GO:0043086	negative regulation of catalytic activity
+GO:0030981	cortical microtubule cytoskeleton
+GO:0071897	DNA biosynthetic process
+GO:0070201	regulation of establishment of protein localization
+GO:0006749	glutathione metabolic process
+GO:0046483	heterocycle metabolic process
+GO:1903829	positive regulation of cellular protein localization
+GO:1903827	regulation of cellular protein localization
+GO:1903825	organic acid transmembrane transport
+GO:0005654	nucleoplasm
+GO:0005773	vacuole
+GO:0051716	cellular response to stimulus
+GO:1901522	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus
+GO:0016301	kinase activity
+GO:0016667	oxidoreductase activity, acting on a sulfur group of donors
+GO:0098805	whole membrane
+GO:0036391	medial cortex septin ring
+GO:0071687	horsetail nucleus leading edge
+GO:0090087	regulation of peptide transport
+GO:0071686	horsetail nucleus
+GO:0006518	peptide metabolic process
+GO:0001067	regulatory region nucleic acid binding
+GO:0006996	organelle organization
+GO:0005783	endoplasmic reticulum
+GO:0006750	glutathione biosynthetic process
+GO:0061630	ubiquitin protein ligase activity
+GO:0055085	transmembrane transport
+GO:0061638	CENP-A containing chromatin
+GO:0016310	phosphorylation
+GO:0016311	dephosphorylation
+GO:0005758	mitochondrial intermembrane space
+GO:0001159	core promoter proximal region DNA binding
+GO:0006725	cellular aromatic compound metabolic process
+GO:0005515	protein binding
+GO:0005875	microtubule associated complex
+GO:0005634	nucleus
+GO:0003690	double-stranded DNA binding
+GO:2001251	negative regulation of chromosome organization
+GO:0070013	intracellular organelle lumen
+GO:1990578	perinuclear endoplasmic reticulum membrane
+GO:0070482	response to oxygen levels
+GO:0050896	response to stimulus
+GO:0045184	establishment of protein localization
+GO:0005886	plasma membrane
+GO:0044092	negative regulation of molecular function
+GO:0004674	protein serine/threonine kinase activity
+GO:0001046	core promoter sequence-specific DNA binding
+GO:0006611	protein export from nucleus
+GO:0001047	core promoter binding
+GO:0004672	protein kinase activity
+GO:0023052	signaling
+GO:2001141	regulation of RNA biosynthetic process
+GO:0036003	positive regulation of transcription from RNA polymerase II promoter in response to stress
+GO:0097708	intracellular vesicle
+GO:0061659	ubiquitin-like protein ligase activity
+GO:0061418	regulation of transcription from RNA polymerase II promoter in response to hypoxia
+GO:0061419	positive regulation of transcription from RNA polymerase II promoter in response to hypoxia
+GO:0016772	transferase activity, transferring phosphorus-containing groups
+GO:0071456	cellular response to hypoxia
+GO:0016773	phosphotransferase activity, alcohol group as acceptor
+GO:0071453	cellular response to oxygen levels
