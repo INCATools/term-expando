@@ -23,12 +23,14 @@ indexer = OntolIndexer()
 expander = Expander()
 @click.group(help="term-expando CLI on {}".format(sys.executable))
 @click.version_option()
-@click.option('-l', '--load', multiple=True)
-@click.option('-e', '--operation', multiple=True)
+@click.option('-l', '--load', multiple=True,
+              help='load an ontology file (must be obojson)')
+@click.option('-e', '--operation', multiple=True,
+              help='method to make a lookup from an ontology: id2name, name2id, closure, id2alias, ..')
 @click.option("-t", "--table",
-              help="lookup table")
+              help="lookup table. TSV of ID->Expansion. Expansion specified as | separated lisr")
 @click.option("-T", "--named-table", multiple=True,
-              help="lookup table")
+              help="named lookup table. Syntax: NAME:FILE")
 def main(table, named_table, operation, load):
     """Command line interface for term-expando."""
     if table is not None:
@@ -50,13 +52,13 @@ def main(table, named_table, operation, load):
 
 @main.command()
 @click.option("-C", "--column_map", multiple=True,
-              help="lookup table")
+              help="mapping between column name and lookup table. :-separated. E.g id:default")
 @click.option("-s", "--separator", default='\t',
-              help="token separator")
+              help="column separator")
 @click.option("-x", "--in-place/--no-in-place", default=False,
-              help="token separator")
+              help="If true, do in-place replacement rather than add new column")
 @click.option("-A", "--auto-header/--no-no-auto-header", default=False,
-              help="token separator")
+              help="Auto-generate column names c1, c2, ...")
 @click.argument('files', nargs=-1)
 def tsv(column_map, in_place, auto_header, separator, files):
     """ expand terms in a TSV """
@@ -74,7 +76,7 @@ def tsv(column_map, in_place, auto_header, separator, files):
 @click.option("-s", "--separator", default=' ',
               help="token separator")
 @click.option("-x", "--in-place/--no-in-place", default=False,
-              help="token separator")
+              help="If true, do in-place replacement rather than append")
 @click.argument('files', nargs=-1)
 def text(in_place, separator, files):
     """ expand terms in a text file """
