@@ -6,6 +6,7 @@ import unittest
 from term_expando import Expander, OntolIndexer
 from pathlib import Path
 import os
+from util import datafile
 
 TBL = 'my'
 class TestOntolIndex(unittest.TestCase):
@@ -15,7 +16,7 @@ class TestOntolIndex(unittest.TestCase):
 
     def setUp(self):
         oi  = OntolIndexer()
-        p = "data/nucleus.json"
+        p = datafile("nucleus.json")
 
         oi.load_from_files([p])
         oi.gen_name2id()

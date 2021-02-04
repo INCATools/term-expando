@@ -4,6 +4,10 @@
 
 import unittest
 from term_expando import Expander
+from util import datafile
+
+
+BASIC_TSV = datafile("basic.tsv")
 
 expected = {
     'a': 'a1|a2|a3'
@@ -16,7 +20,7 @@ class TestExpand(unittest.TestCase):
         """Test basic expansion functionality."""
         x = Expander()
         t = 'my'
-        x.load_table("data/basic.tsv", t)
+        x.load_table(BASIC_TSV, t)
         for k in ['a', 'b', 'c', 'unknown']:
             print(f'Exp({k}) == {x.expand_term(k,t)}')
 
@@ -28,7 +32,7 @@ class TestExpand(unittest.TestCase):
         x = Expander()
         print(f'Expander = {x}')
         t = 'my'
-        x.load_table("data/basic.tsv", t, valsep='|')
+        x.load_table(BASIC_TSV, t, valsep='|')
         for k in ['a', 'b', 'c', 'unknown']:
             print(f'Exp({k}) == {x.expand_term(k,t)}')
 
@@ -38,7 +42,7 @@ class TestExpand(unittest.TestCase):
     def test_expand_text(self):
         """Test basic expansion functionality."""
         x = Expander()
-        x.load_table("data/basic.tsv")
+        x.load_table(BASIC_TSV)
         for k in ['a', 'b', 'c', 'unknown']:
             print(f'Exp({k}) == {x.expand_term(k)}')
         txt = x.expand_text("foo a bar b boz c biz")
@@ -48,5 +52,5 @@ class TestExpand(unittest.TestCase):
     def test_expand_tsv(self):
         """Test basic expansion functionality."""
         x = Expander()
-        x.load_table("data/basic.tsv", "basic")
-        x.expand_tsv("data/src.tsv", column_map={'c1': 'basic'}, in_place=True)
+        x.load_table(BASIC_TSV, "basic")
+        x.expand_tsv(datafile("src.tsv"), column_map={'c1': 'basic'}, in_place=True)
